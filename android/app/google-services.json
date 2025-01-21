@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "377510480226",
+    "firebase_url": "https://kavackraksha-default-rtdb.firebaseio.com",
+    "project_id": "kavackraksha",
+    "storage_bucket": "kavackraksha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377510480226:android:a64d676f730f40cf6f843b",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377510480226-t4hrr2ngccl6agj5jimsvknt4ga5bn06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-0Seq4id1e6arxtW_bd3JUzF-cGAESFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377510480226-t4hrr2ngccl6agj5jimsvknt4ga5bn06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377510480226:android:b434e13d6e08488a6f843b",
+        "android_client_info": {
+          "package_name": "com.example.kavach_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377510480226-t4hrr2ngccl6agj5jimsvknt4ga5bn06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-0Seq4id1e6arxtW_bd3JUzF-cGAESFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377510480226-t4hrr2ngccl6agj5jimsvknt4ga5bn06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377510480226:android:5070f0ca365627bb6f843b",
+        "android_client_info": {
+          "package_name": "com.example.kavach_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377510480226-28ss6sbuqmejl2e3p66vtgi8hesk96lp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kavach_project",
+            "certificate_hash": "aab54f50748e5584af71b02d1d369ffeed686d74"
+          }
+        },
+        {
+          "client_id": "377510480226-2m5cid0sm0vc1acae16nbbvc0p7pjse5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kavach_project",
+            "certificate_hash": "7229b2ab569ffe92ccc2ebf9972b40c7786cdfc5"
+          }
+        },
+        {
+          "client_id": "377510480226-s71jpqskoo89knc1q99p90s4c1lsv5hh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kavach_project",
+            "certificate_hash": "54c171243106af0b67472f20193cc87de824f205"
+          }
+        },
+        {
+          "client_id": "377510480226-t4hrr2ngccl6agj5jimsvknt4ga5bn06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-0Seq4id1e6arxtW_bd3JUzF-cGAESFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377510480226-t4hrr2ngccl6agj5jimsvknt4ga5bn06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
